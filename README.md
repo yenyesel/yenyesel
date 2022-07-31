@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yenyesel
 - 👀 I’m interested in Java,Spring,MySQL
-- 🌱 I’m currently enhasing my skills & want to learn latest technologies.
+- 🌱 I’m currently enhancing my skills & want to learn latest technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
